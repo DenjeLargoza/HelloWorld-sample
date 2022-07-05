@@ -4,6 +4,9 @@ public class helloWorld
 	{
 		Hello h1 = new Hello();
 		hello.setReply("Hello World!");
-		System.out.println(hello);
+		for(int i=0; i<5; i++)
+		{
+			System.out.println(hello);
+		}
 	}
 }
