@@ -2,8 +2,7 @@ public class helloWorld
 {
 	public static void main(String[] args)
 	{
-		Hello h1 = new Hello();
-		hello.setReply("Hello World!");
-		System.out.println(hello);
+		
+		System.out.println("Hello world ako si Denje!");
 	}
 }
